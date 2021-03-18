@@ -185,7 +185,7 @@
     background: white;
     float: left;
     border-radius: 5px;
-    box-shadow: 0 24px 48px rgba(17, 16, 62, 0.12);
+    //box-shadow: 0 24px 48px rgba(17, 16, 62, 0.12);
   }
 
   .rr-player__frame {
